@@ -21,8 +21,7 @@ Focuses on identifying top-performing and least-performing products across reven
 # 🧮 Key Performance Indicators (KPIs)
 The dashboard tracks the following primary KPIs:
 ## KPI	Description
-Total Revenue	Total sales generated across all Starbucks products (≈ 25.77M).
-Average Order Value (AOV)	Average revenue generated per order (≈ 1.21K).
+Total Revenue	Total sales generated across all Starbucks products (≈ 25.77M). Average Order Value (AOV)	Average revenue generated per order (≈ 1.21K).
 Total Items Sold	Total quantity of items purchased (≈ 49,574).
 Total Orders	Total number of orders placed (≈ 21,350).
 Average Items Per Order	Indicates customer buying pattern (≈ 2.32 items/order).
